@@ -4,19 +4,20 @@ import java.util.List;
 
 public class ResultadoEquipos {
 	
+	private String pais;
+	private String liga;
 	private List<String> equipos;
-	private int codigoComparacion;
-	private String mensajeComparacion;
+	private int categoria;
+	private int numeroEquipos;
 	
 	public ResultadoEquipos() {
 		
 	}
 	
-	public ResultadoEquipos(List<String> equipos, int codigoComparacion, String mensajeComparacion) {
+	public ResultadoEquipos(List<String> equipos, int numeroEquipos) {
 		
 		this.equipos = equipos;
-		this.codigoComparacion = codigoComparacion;
-		this.mensajeComparacion = mensajeComparacion;
+		this.numeroEquipos = numeroEquipos;
 		
 	}
 	
@@ -27,21 +28,37 @@ public class ResultadoEquipos {
 	public void setEquipos(List<String> equipos) {
 		this.equipos = equipos;
 	}
-	
-	public int getCodigoComparacion() {
-		return codigoComparacion;
+
+	public int getNumeroEquipos() {
+		return numeroEquipos;
 	}
-	
-	public void setCodigoComparacion(int codigoComparacion) {
-		this.codigoComparacion = codigoComparacion;
+
+	public void setNumeroEquipos(int numeroEquipos) {
+		this.numeroEquipos = numeroEquipos;
 	}
-	
-	public String getMensajeComparacion() {
-		return mensajeComparacion;
+
+	public String getPais() {
+		return pais;
 	}
-	
-	public void setMensajeComparacion(String mensajeComparacion) {
-		this.mensajeComparacion = mensajeComparacion;
+
+	public void setPais(String pais) {
+		this.pais = pais;
+	}
+
+	public String getLiga() {
+		return liga;
+	}
+
+	public void setLiga(String liga) {
+		this.liga = liga;
+	}
+
+	public int getCategoria() {
+		return categoria;
+	}
+
+	public void setCategoria(int categoria) {
+		this.categoria = categoria;
 	}
 
 }
