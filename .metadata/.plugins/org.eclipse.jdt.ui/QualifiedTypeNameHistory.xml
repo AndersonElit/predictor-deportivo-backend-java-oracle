@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.inter.IObtenerEquipos"/>
 <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
 <fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos"/>
 <fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
-<fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.ObtenerEquiposResultadosFutbol"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.inter.IObtenerEquipos"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.ResultadoPartidos"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerPartidos"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.FechasTemporada"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.PartidosPorFecha"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.Partido"/>
+<fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerPartido"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.elementos.PartidosPorFechaResultadosFutbol"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerEquipos"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IPartidosPorFecha"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IFechasTemporada"/>
 </qualifiedTypeNameHistroy>

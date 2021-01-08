@@ -1,4 +1,4 @@
-package com.predictor.bot.obtenerequipos;
+package com.predictor.bot.obtenerequipos.composition;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -9,15 +9,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.predictor.bot.interfaces.IObtenerEquipos;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
-import com.predictor.bot.obtenerequipos.inter.IObtenerEquipos;
 
 public class ObtenerEquiposResultadosFutbol implements IObtenerEquipos {
 	
 	private String baseUrl = "https://www.resultados-futbol.com/";
 	private String url = "";
 
-	public ResultadoEquipos listaEquipos(String pais, String liga, String ligaUrl, int temporada, int categoria) {
+	public ResultadoEquipos listaEquipos(String ligaUrl, int temporada) {
 		
 		ResultadoEquipos resultado = new ResultadoEquipos();
 		
@@ -34,12 +34,11 @@ public class ObtenerEquiposResultadosFutbol implements IObtenerEquipos {
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
+			//String mensaje = e.getMessage();
+			//System.out.println(mensaje);
 		}
 		
-		resultado.setPais(pais);
-		resultado.setLiga(liga);
 		resultado.setEquipos(listaEequipos);
-		resultado.setCategoria(categoria);
 		resultado.setNumeroEquipos(listaEequipos.size());
 		
 		return resultado;

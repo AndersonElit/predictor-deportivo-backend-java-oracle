@@ -4,10 +4,7 @@ import java.util.List;
 
 public class ResultadoEquipos {
 	
-	private String pais;
-	private String liga;
 	private List<String> equipos;
-	private int categoria;
 	private int numeroEquipos;
 	
 	public ResultadoEquipos() {
@@ -35,30 +32,6 @@ public class ResultadoEquipos {
 
 	public void setNumeroEquipos(int numeroEquipos) {
 		this.numeroEquipos = numeroEquipos;
-	}
-
-	public String getPais() {
-		return pais;
-	}
-
-	public void setPais(String pais) {
-		this.pais = pais;
-	}
-
-	public String getLiga() {
-		return liga;
-	}
-
-	public void setLiga(String liga) {
-		this.liga = liga;
-	}
-
-	public int getCategoria() {
-		return categoria;
-	}
-
-	public void setCategoria(int categoria) {
-		this.categoria = categoria;
 	}
 
 }
