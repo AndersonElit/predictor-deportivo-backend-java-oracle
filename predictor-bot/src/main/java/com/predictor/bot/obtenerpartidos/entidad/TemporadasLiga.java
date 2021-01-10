@@ -1,9 +1,11 @@
 package com.predictor.bot.obtenerpartidos.entidad;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class TemporadasLiga {
+public class TemporadasLiga implements Serializable {
 	
+	private static final long serialVersionUID = 1L;
 	private String pais;
 	private String liga;
 	private int categoria;

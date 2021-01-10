@@ -1,9 +1,11 @@
 package com.predictor.bot.obtenerpartidos.entidad;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class PartidosPorFecha {
+public class PartidosPorFecha implements Serializable {
 	
+	private static final long serialVersionUID = 1L;
 	private int fecha;	
 	private List<Partido> partidos;
 	

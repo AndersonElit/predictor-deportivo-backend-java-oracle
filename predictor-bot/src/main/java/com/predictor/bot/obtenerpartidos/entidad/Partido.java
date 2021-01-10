@@ -1,7 +1,10 @@
 package com.predictor.bot.obtenerpartidos.entidad;
 
-public class Partido {
+import java.io.Serializable;
+
+public class Partido implements Serializable {
 	
+	private static final long serialVersionUID = 1L;
 	private String local;
 	private String visitante;
 	private int golesLocal;

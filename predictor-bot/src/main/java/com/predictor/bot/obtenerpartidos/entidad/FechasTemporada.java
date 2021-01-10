@@ -1,11 +1,13 @@
 package com.predictor.bot.obtenerpartidos.entidad;
 
+import java.io.Serializable;
 import java.util.List;
 
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
 
-public class FechasTemporada {
+public class FechasTemporada implements Serializable {
 	
+	private static final long serialVersionUID = 1L;
 	private int temporada;
 	private ResultadoEquipos equiposObj;
 	private List<PartidosPorFecha> listaFechas;

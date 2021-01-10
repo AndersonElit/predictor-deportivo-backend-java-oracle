@@ -1,5 +1,6 @@
-package com.predictor.bot.obtenerpartidos.composition;
+package com.predictor.bot.obtenerpartidos.datostotales;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,8 +10,10 @@ import com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol
 import com.predictor.bot.obtenerpartidos.entidad.FechasTemporada;
 import com.predictor.bot.obtenerpartidos.entidad.TemporadasLiga;
 
-public class DatosTotalesLiga implements ITotalDatos {
+public class DatosTotalesResultadosFutbol implements ITotalDatos, Serializable {
 	
+	private static final long serialVersionUID = 1L;
+
 	public TemporadasLiga listaTemporadas(String pais, String liga, String ligaUrl, int categoria) {
 		
 		TemporadasLiga datosTotales = new TemporadasLiga();

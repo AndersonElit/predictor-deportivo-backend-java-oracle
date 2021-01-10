@@ -6,14 +6,16 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 import com.predictor.bot.interfaces.IObtenerEquipos;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
 
-public class ObtenerEquiposResultadosFutbol implements IObtenerEquipos {
+public class ObtenerEquiposResultadosFutbol implements IObtenerEquipos, Serializable {
 	
+	private static final long serialVersionUID = 1L;
 	private String baseUrl = "https://www.resultados-futbol.com/";
 	private String url = "";
 

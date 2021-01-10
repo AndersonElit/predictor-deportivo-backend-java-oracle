@@ -1,6 +1,11 @@
 package com.predictor.bot.tests;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.util.List;
 
 import org.jsoup.Jsoup;
@@ -11,16 +16,18 @@ import org.jsoup.select.Elements;
 import com.predictor.bot.interfaces.IFechasTemporada;
 import com.predictor.bot.interfaces.IObtenerEquipos;
 import com.predictor.bot.interfaces.IPartidosPorFecha;
+import com.predictor.bot.interfaces.ISerializarLiga;
 import com.predictor.bot.interfaces.ITotalDatos;
 import com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
-import com.predictor.bot.obtenerpartidos.composition.DatosTotalesLiga;
+import com.predictor.bot.obtenerpartidos.datostotales.DatosTotalesResultadosFutbol;
 import com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol;
 import com.predictor.bot.obtenerpartidos.elementos.PartidosPorFechaResultadosFutbol;
 import com.predictor.bot.obtenerpartidos.entidad.FechasTemporada;
 import com.predictor.bot.obtenerpartidos.entidad.Partido;
 import com.predictor.bot.obtenerpartidos.entidad.PartidosPorFecha;
 import com.predictor.bot.obtenerpartidos.entidad.TemporadasLiga;
+import com.predictor.bot.obtenerpartidos.serializarliga.SerializarLiga;
 
 public class Tester {
 
@@ -103,10 +110,19 @@ public class Tester {
 		//----------------------------------------------------------------------------------------------------------------------------------------------------
 		
 		/*
-		//obtener todos los datos para una liga
-		
-		ITotalDatos datosLigasObj = new DatosTotalesLiga();
+		//serializar liga
+		ITotalDatos datosLigasObj = new DatosTotalesResultadosFutbol();
 		TemporadasLiga datosLiga = datosLigasObj.listaTemporadas("Inglaterra", "Premier League", "premier", 1);
+		ISerializarLiga serializarLiga = new SerializarLiga();
+		serializarLiga.serializarLiga(datosLiga);
+		*/
+		
+		//----------------------------------------------------------------------------------------------------------------------------------------------------
+		
+		/*
+		//deserializar liga
+		ISerializarLiga serializarLiga = new SerializarLiga();
+		TemporadasLiga datosLiga = serializarLiga.deserializarLiga("premier-league-2000-2019.ser");	
 		
 		String pais = datosLiga.getPais();
 		String liga = datosLiga.getLiga();
@@ -127,11 +143,7 @@ public class Tester {
 			
 			System.out.println("Temporada: " + temporada);
 			
-			System.out.println("Equipos:");
-			
-			for (String equipo : equipos) {
-				System.out.println(equipo);
-			}
+			System.out.println("Equipos:" + equipos);
 			
 			System.out.println("Numero de equipos: " + numeroEquipos);
 			
@@ -154,9 +166,10 @@ public class Tester {
 			}
 			
 		}
+		*/
 		
-		//----------------------------------------------------------------------------------------------------------------------------------------------------
-		 */
+		
+		//-------------------------------------------------------------------------------------------------------------------------------------------------
 
 	}
 

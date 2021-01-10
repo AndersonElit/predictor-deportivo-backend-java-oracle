@@ -1,9 +1,11 @@
 package com.predictor.bot.obtenerequipos.entidad;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class ResultadoEquipos {
+public class ResultadoEquipos implements Serializable {
 	
+	private static final long serialVersionUID = 1L;
 	private List<String> equipos;
 	private int numeroEquipos;
 	

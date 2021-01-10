@@ -1,6 +1,7 @@
 package com.predictor.bot.obtenerpartidos.elementos;
 
 import java.io.IOException;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,8 +15,12 @@ import com.predictor.bot.interfaces.IPartidosPorFecha;
 import com.predictor.bot.obtenerpartidos.entidad.Partido;
 import com.predictor.bot.obtenerpartidos.entidad.PartidosPorFecha;
 
-public class PartidosPorFechaResultadosFutbol implements IPartidosPorFecha {
+public class PartidosPorFechaResultadosFutbol implements IPartidosPorFecha, Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private String baseUrl = "https://www.resultados-futbol.com/";
 	private String url = "";
 	

@@ -1,11 +1,13 @@
 package com.predictor.bot.obtenerpartidos.elementos;
 
+import java.io.Serializable;
+
 import org.jsoup.nodes.Element;
 
 import com.predictor.bot.interfaces.IObtenerPartido;
 import com.predictor.bot.obtenerpartidos.entidad.Partido;
 
-public class ObtenerPartidoResultadosFutbol implements IObtenerPartido {
+public class ObtenerPartidoResultadosFutbol implements IObtenerPartido, Serializable {
 	
 	public Partido datosPartido(Element tr) {
 		
