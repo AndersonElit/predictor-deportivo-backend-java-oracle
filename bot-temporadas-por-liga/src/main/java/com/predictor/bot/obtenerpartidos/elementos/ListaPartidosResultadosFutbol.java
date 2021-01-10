@@ -8,7 +8,7 @@ import com.predictor.bot.interfaces.IEquiposCoinciden;
 import com.predictor.bot.interfaces.IFechasTemporada;
 import com.predictor.bot.interfaces.IObtenerEquipos;
 import com.predictor.bot.interfaces.IPartidosPorFecha;
-import com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol;
+import com.predictor.bot.obtenerequipos.composicion.ObtenerEquiposResultadosFutbol;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
 import com.predictor.bot.obtenerequipos.equiposcoinciden.EquiposCoinciden;
 import com.predictor.bot.obtenerpartidos.entidad.FechasTemporada;
@@ -17,6 +17,8 @@ import com.predictor.bot.obtenerpartidos.entidad.PartidosPorFecha;
 
 public class ListaPartidosResultadosFutbol implements IFechasTemporada, Serializable {
 	
+	private static final long serialVersionUID = 1L;
+
 	public FechasTemporada listaFechas(String ligaUrl, int temporada) {
 		
 		FechasTemporada fechasTemporada = new FechasTemporada();

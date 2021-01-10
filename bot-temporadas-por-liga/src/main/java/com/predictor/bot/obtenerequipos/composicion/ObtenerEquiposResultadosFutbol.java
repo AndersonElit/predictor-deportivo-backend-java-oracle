@@ -1,14 +1,14 @@
-package com.predictor.bot.obtenerequipos.composition;
-
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
+package com.predictor.bot.obtenerequipos.composicion;
 
 import java.io.IOException;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import com.predictor.bot.interfaces.IObtenerEquipos;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;

@@ -23,7 +23,5 @@ public class ResultadoPartidos implements Serializable {
 	public void setListaTemporadas(List<FechasTemporada> listaTemporadas) {
 		this.listaTemporadas = listaTemporadas;
 	}
-	
-	
 
 }

@@ -41,6 +41,6 @@ public class TemporadasLiga implements Serializable {
 
 	public void setListaTemporadas(List<FechasTemporada> listaTemporadas) {
 		this.listaTemporadas = listaTemporadas;
-	}	
+	}
 
 }

@@ -1,27 +1,12 @@
 package com.predictor.bot.tests;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 import java.util.List;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
-import com.predictor.bot.interfaces.IFechasTemporada;
 import com.predictor.bot.interfaces.IObtenerEquipos;
 import com.predictor.bot.interfaces.IPartidosPorFecha;
 import com.predictor.bot.interfaces.ISerializarLiga;
-import com.predictor.bot.interfaces.ITotalDatos;
-import com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol;
+import com.predictor.bot.obtenerequipos.composicion.ObtenerEquiposResultadosFutbol;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
-import com.predictor.bot.obtenerpartidos.datostotales.DatosTotalesResultadosFutbol;
-import com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol;
 import com.predictor.bot.obtenerpartidos.elementos.PartidosPorFechaResultadosFutbol;
 import com.predictor.bot.obtenerpartidos.entidad.FechasTemporada;
 import com.predictor.bot.obtenerpartidos.entidad.Partido;
@@ -64,6 +49,7 @@ public class Tester {
 			System.out.println("Local: " + local + ", " + "Visitante: " + visitante + ", " + "Goles local: " + golesLocal + ", " + "Goles visitante: " + golesVisitante);
 		}
 		*/
+		
 		
 		//------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
@@ -166,8 +152,7 @@ public class Tester {
 			}
 			
 		}
-		*/
-		
+		*/		
 		
 		//-------------------------------------------------------------------------------------------------------------------------------------------------
 

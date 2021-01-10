@@ -36,6 +36,9 @@ CREATE TABLE equipos (
 
 
 /*
+
+--debo subdividir esta tabla en tablas mas pequeñas para mas facil manejo
+
 CREATE TABLE partidos (
     id NUMBER,
     pais VARCHAR2(150) NOT NULL,
@@ -57,6 +60,25 @@ CREATE TABLE partidos (
     mas25 NUMBER NOT NULL,
     menos25 NUMBER NOT NULL,
     bts NUMBER NOT NULL,
+    FOREIGN KEY (pais) REFERENCES paises(pais),
+    FOREIGN KEY (liga) REFERENCES ligas(liga),
+    FOREIGN KEY (temporada) REFERENCES temporadas(temporada),
+    FOREIGN KEY (categoria) REFERENCES categorias(division)
+);
+*/
+
+/*
+CREATE TABLE datos_partidos (
+    id NUMBER,
+    pais VARCHAR2(150) NOT NULL,
+    liga VARCHAR2(150) NOT NULL,
+    temporada VARCHAR2(150) NOT NULL,
+    categoria VARCHAR2(150) NOT NULL,
+    fecha NUMBER NOT NULL,
+    local VARCHAR2(150) NOT NULL,
+    visitante VARCHAR2(150) NOT NULL,
+    goles_local NUMBER NOT NULL,
+    goles_visitante NUMBER NOT NULL,
     FOREIGN KEY (pais) REFERENCES paises(pais),
     FOREIGN KEY (liga) REFERENCES ligas(liga),
     FOREIGN KEY (temporada) REFERENCES temporadas(temporada),

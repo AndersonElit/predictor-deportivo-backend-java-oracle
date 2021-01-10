@@ -11,3 +11,19 @@
 --ALTER USER pronosticador QUOTA UNLIMITED ON ANDERSONDB;
 
 --SELECT * FROM DBA_USERS;
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--CREATE TABLESPACE PRUEBASDB LOGGING DATAFILE 'C:\pronosticadorData\pruebasData.dbf' SIZE 512M EXTENT MANAGEMENT LOCAL SEGMENT SPACE MANAGEMENT AUTO;
+
+--ALTER SESSION SET "_ORACLE_SCRIPT"=true;
+
+--CREATE USER pruebas PROFILE DEFAULT IDENTIFIED BY 12345 DEFAULT TABLESPACE PRUEBASDB TEMPORARY TABLESPACE TEMP ACCOUNT UNLOCK;
+
+--GRANT CONNECT TO pruebas;
+
+--GRANT RESOURCE TO pruebas;
+
+--ALTER USER pruebas QUOTA UNLIMITED ON PRUEBASDB;
+
+--SELECT * FROM DBA_USERS;

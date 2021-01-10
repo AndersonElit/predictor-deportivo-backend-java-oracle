@@ -9,6 +9,8 @@ import com.predictor.bot.obtenerpartidos.entidad.Partido;
 
 public class ObtenerPartidoResultadosFutbol implements IObtenerPartido, Serializable {
 	
+	private static final long serialVersionUID = 1L;
+
 	public Partido datosPartido(Element tr) {
 		
 		Partido partido = new Partido();

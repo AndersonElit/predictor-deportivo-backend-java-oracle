@@ -43,6 +43,6 @@ public class FechasTemporada implements Serializable {
 
 	public void setEquiposObj(ResultadoEquipos equiposObj) {
 		this.equiposObj = equiposObj;
-	}	
+	}
 
 }

@@ -49,8 +49,8 @@ END;
 */
 
 /*
-CREATE TRIGGER insertar_id_tabla_partidos
-    BEFORE INSERT ON partidos
+CREATE TRIGGER insertar_id_tabla_datos_partidos
+    BEFORE INSERT ON datos_partidos
     FOR EACH ROW
         WHEN (new.id IS NULL)
     BEGIN

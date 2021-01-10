@@ -17,9 +17,6 @@ import com.predictor.bot.obtenerpartidos.entidad.PartidosPorFecha;
 
 public class PartidosPorFechaResultadosFutbol implements IPartidosPorFecha, Serializable {
 	
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private String baseUrl = "https://www.resultados-futbol.com/";
 	private String url = "";
