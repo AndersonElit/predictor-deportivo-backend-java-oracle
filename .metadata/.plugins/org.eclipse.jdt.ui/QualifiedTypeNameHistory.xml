@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.ResultadoEquipos"/>
 <fullyQualifiedTypeName name="javax.swing.text.Document"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.ITotalDatos"/>
-<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IFechasTemporada"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
 <fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
@@ -18,7 +17,6 @@
 <fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquiposCoinciden"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.equiposcoinciden.EquiposCoinciden"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
@@ -37,4 +35,6 @@
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.ISerializarLiga"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.TemporadasLiga"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.FechasTemporada"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IFechasTemporada"/>
 </qualifiedTypeNameHistroy>

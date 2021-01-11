@@ -55,6 +55,7 @@ public class Tester {
 		
 		/*
 		//obtener datos para una temporada en especifico
+		//tener en cuenta como se accede a los datos de la liga desde una url
 		
 		IFechasTemporada partidosTemporadaObj = new ListaPartidosResultadosFutbol();
 		FechasTemporada partidosTemporada = partidosTemporadaObj.listaFechas("premier", 2019);
