@@ -1,7 +1,9 @@
 package com.predictor.bot.obtenerequipos.entidad;
 
 import java.io.Serializable;
+import javax.xml.bind.annotation.*;
 
+@XmlRootElement(name = "equipo")
 public class EquipoBean implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
@@ -25,6 +27,7 @@ public class EquipoBean implements Serializable {
 		return id;
 	}
 	
+	@XmlElement
 	public void setId(int id) {
 		this.id = id;
 	}
@@ -32,7 +35,8 @@ public class EquipoBean implements Serializable {
 	public String getNombre() {
 		return nombre;
 	}
-
+	
+	@XmlElement
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}

@@ -1,5 +1,6 @@
 package com.predictor.bot.tests;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.predictor.bot.interfaces.IEquipoService;
@@ -8,7 +9,9 @@ import com.predictor.bot.interfaces.IPartidosPorFecha;
 import com.predictor.bot.interfaces.ISerializarLiga;
 import com.predictor.bot.obtenerequipos.composicion.ObtenerEquiposResultadosFutbol;
 import com.predictor.bot.obtenerequipos.entidad.EquipoBean;
+import com.predictor.bot.obtenerequipos.entidad.EquiposResult;
 import com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos;
+import com.predictor.bot.obtenerequipos.serializar.SerializarEquipo;
 import com.predictor.bot.obtenerequipos.service.EquipoService;
 import com.predictor.bot.obtenerpartidos.elementos.PartidosPorFechaResultadosFutbol;
 import com.predictor.bot.obtenerpartidos.entidad.FechasTemporada;
@@ -184,6 +187,43 @@ public class Tester {
 			System.out.println("Id: " + id + " Equipo: " + nombre);
 		}
 		*/
+		
+		/*		
+		SerializarEquipo serializar = new SerializarEquipo();
+		EquipoBean equipo = new EquipoBean();
+		
+		equipo.setId(1);
+		equipo.setNombre("Bayern");
+		
+		String str = serializar.convertirAXml(equipo);
+		
+		System.out.println(str);
+		*/
+		
+		SerializarEquipo serializar = new SerializarEquipo();
+		EquiposResult equiposResult = new EquiposResult();
+		List<EquipoBean> listaEquipos = new ArrayList<EquipoBean>();
+		
+		EquipoBean equipo = new EquipoBean();
+		equipo.setId(1);
+		equipo.setNombre("Barcelona");
+		listaEquipos.add(equipo);
+		
+		EquipoBean equipo2 = new EquipoBean();		
+		equipo2.setId(2);
+		equipo2.setNombre("Real Madrid");
+		listaEquipos.add(equipo2);
+		
+		EquipoBean equipo3 = new EquipoBean();
+		equipo3.setId(3);
+		equipo3.setNombre("Bayern");
+		listaEquipos.add(equipo3);
+		
+		equiposResult.setEquiposResult(listaEquipos);
+		
+		String str = serializar.convertirArrayAXml(equiposResult);
+		
+		System.out.println(str);
 
 	}
 

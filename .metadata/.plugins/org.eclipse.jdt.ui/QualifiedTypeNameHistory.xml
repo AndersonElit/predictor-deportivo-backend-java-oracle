@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.ResultadoEquipos"/>
 <fullyQualifiedTypeName name="javax.swing.text.Document"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.ITotalDatos"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
 <fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
 <fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
@@ -44,6 +43,9 @@
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.service.EquipoService"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquipoService"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquipoBean"/>
+<fullyQualifiedTypeName name="java.io.StringWriter"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.serializar.SerializarEquipo"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposResult"/>
 </qualifiedTypeNameHistroy>
