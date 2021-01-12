@@ -20,14 +20,12 @@
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IPartidosPorFecha"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.elementos.PartidosPorFechaResultadosFutbol"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.PartidosPorFecha"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.Partido"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.composicion.ObtenerEquiposResultadosFutbol"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerEquipos"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.ResultadoEquipos"/>
@@ -37,4 +35,15 @@
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.FechasTemporada"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IFechasTemporada"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+<fullyQualifiedTypeName name="java.io.Reader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquipoDAO"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.repository.EquipoDAO"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.service.EquipoService"/>
+<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquipoService"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquipoBean"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposResult"/>
 </qualifiedTypeNameHistroy>

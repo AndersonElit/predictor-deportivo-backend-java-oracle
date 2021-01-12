@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC '-//mybatis.org//DTD Mapper 3.0//EN'
+  'http://mybatis.org/dtd/mybatis-3-mapper.dtd'>
+ 
+<mapper namespace='EquipoMap'>
+
+	<select id="listaEquipos" parameterMap="listaEquiposMap" statementType="CALLABLE" >
+		call pk_operaciones_equipo.sp_lista_equipos(?)
+	</select>
+	
+	<parameterMap id="listaEquiposMap" type="equiposResult">
+		<parameter property="equiposResult"  		jdbcType="CURSOR" mode="OUT"	resultMap="equiposResultMap"/>
+	</parameterMap>
+	
+	<resultMap id="equiposResultMap" type="equipo">
+		<result property="id" 		column="id"/>
+		<result property="nombre" 	column="equipo"/>
+	</resultMap>
+	
+	<select id="insertarEquipo" parameterMap="insertarEquipoMap" statementType="CALLABLE" >
+		call pk_operaciones_equipo.sp_insertar_equipo(?, ?)
+	</select>
+	
+	<parameterMap id="insertarEquipoMap" type="equipo">
+		<parameter property="id"  		jdbcType="VARCHAR" mode="IN"	/>
+		<parameter property="nombre"  	jdbcType="INTEGER" mode="IN"	/>
+	</parameterMap>
+	
+</mapper>
