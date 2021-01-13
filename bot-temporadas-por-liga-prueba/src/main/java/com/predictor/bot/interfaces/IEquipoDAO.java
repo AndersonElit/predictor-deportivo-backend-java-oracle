@@ -9,5 +9,7 @@ public interface IEquipoDAO {
 	public void insertarEquipo(EquipoBean equipo);
 	
 	public List<EquipoBean> listaEquipos();
+	
+	public void insertarEquiposXml(List<EquipoBean> listaEquipos);
 
 }

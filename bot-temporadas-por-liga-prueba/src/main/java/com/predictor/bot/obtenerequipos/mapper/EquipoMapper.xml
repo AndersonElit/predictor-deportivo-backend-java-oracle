@@ -26,4 +26,12 @@
 		<parameter property="nombre"  	jdbcType="INTEGER" mode="IN"	/>
 	</parameterMap>
 	
+	<select id="insertarEquipoXml" parameterMap="insertarEquipoXmlMap" statementType="CALLABLE" >
+		call pk_operaciones_equipo.sp_insertar_equipo_xml(?)
+	</select>
+	
+	<parameterMap id="insertarEquipoXmlMap" type="equiposXml">
+		<parameter property="equiposXml"  		jdbcType="VARCHAR" mode="IN"	/>
+	</parameterMap>
+	
 </mapper>

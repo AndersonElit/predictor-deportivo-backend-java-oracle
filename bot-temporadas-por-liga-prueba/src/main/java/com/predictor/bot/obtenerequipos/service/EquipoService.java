@@ -15,6 +15,10 @@ public class EquipoService implements IEquipoService {
 		equipoDao.insertarEquipo(equipo);
 	}
 	
+	public void insertarEquiposXml(List<EquipoBean> listaEquipos) {
+		equipoDao.insertarEquiposXml(listaEquipos);
+	}
+	
 	public List<EquipoBean> listaEquipos() {
 		return equipoDao.listaEquipos();
 	}

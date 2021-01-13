@@ -7,6 +7,8 @@ import org.apache.ibatis.session.SqlSession;
 import com.predictor.bot.interfaces.IEquipoDAO;
 import com.predictor.bot.obtenerequipos.entidad.EquipoBean;
 import com.predictor.bot.obtenerequipos.entidad.EquiposResult;
+import com.predictor.bot.obtenerequipos.entidad.EquiposXml;
+import com.predictor.bot.obtenerequipos.serializar.SerializarEquipo;
 
 public class EquipoDAO implements IEquipoDAO {
 	
@@ -24,6 +26,28 @@ public class EquipoDAO implements IEquipoDAO {
 			session.commit();
 			System.out.println("Se inserto un nuevo equipo");
 			
+		} catch(Exception ex) {
+			ex.printStackTrace();
+			session.rollback();
+		} finally {
+			session.close();
+		}
+		
+	}
+	
+	public void insertarEquiposXml(List<EquipoBean> listaEquipos) {
+		
+		try {
+			session = MybatisUtils.getSqlSessionFactory().openSession();
+			SerializarEquipo serializar = new SerializarEquipo();
+			EquiposResult equiposResult = new EquiposResult();
+			equiposResult.setEquiposResult(listaEquipos);
+			String str = serializar.convertirObjAXml(equiposResult);
+			EquiposXml equiposXml = new EquiposXml();
+			equiposXml.setEquiposXml(str);
+			session.insert("EquipoMap.insertarEquipoXml", equiposXml);
+			session.commit();
+			System.out.println("Se insertaron los equipos");
 		} catch(Exception ex) {
 			ex.printStackTrace();
 			session.rollback();

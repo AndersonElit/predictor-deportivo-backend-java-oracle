@@ -8,6 +8,8 @@ public interface IEquipoService {
 	
 	public void insertarEquipo(EquipoBean equipo);
 	
+	public void insertarEquiposXml(List<EquipoBean> listaEquipos);
+	
 	public List<EquipoBean> listaEquipos();
 
 }

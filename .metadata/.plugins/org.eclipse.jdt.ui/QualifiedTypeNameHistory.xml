@@ -44,8 +44,14 @@
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquipoService"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquipoBean"/>
 <fullyQualifiedTypeName name="java.io.StringWriter"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.serializar.SerializarEquipo"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposResult"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.serializar.SerializarEquipo"/>
+<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposXml"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.interfaces.IEquipoScraper"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.scraper.EquipoScraper"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.beans.EquiposBean"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.partidos.beans.PartidosBean"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.partidos.beans.PartidoBean"/>
 </qualifiedTypeNameHistroy>

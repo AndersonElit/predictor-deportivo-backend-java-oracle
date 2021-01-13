@@ -188,18 +188,19 @@ public class Tester {
 		}
 		*/
 		
-		/*		
+		/*	
 		SerializarEquipo serializar = new SerializarEquipo();
 		EquipoBean equipo = new EquipoBean();
 		
 		equipo.setId(1);
 		equipo.setNombre("Bayern");
 		
-		String str = serializar.convertirAXml(equipo);
+		String str = serializar.convertirObjAXml(equipo);
 		
 		System.out.println(str);
-		*/
+		*/		
 		
+		/*	
 		SerializarEquipo serializar = new SerializarEquipo();
 		EquiposResult equiposResult = new EquiposResult();
 		List<EquipoBean> listaEquipos = new ArrayList<EquipoBean>();
@@ -221,9 +222,30 @@ public class Tester {
 		
 		equiposResult.setEquiposResult(listaEquipos);
 		
-		String str = serializar.convertirArrayAXml(equiposResult);
+		String str = serializar.convertirObjAXml(equiposResult);
 		
 		System.out.println(str);
+		*/
+		
+		/*
+		//insertar lista de equipos con xml
+		IObtenerEquipos equiposObj = new ObtenerEquiposResultadosFutbol();
+		ResultadoEquipos equipos = equiposObj.listaEquipos("premier", 2019);
+		List<String> listaEquipos = equipos.getEquipos();
+		List<EquipoBean> nuevaLista = new ArrayList<EquipoBean>();
+		IEquipoService equipoService = new EquipoService();
+		int id = 10;
+		
+		for (String equipo : listaEquipos) {
+			EquipoBean equipoConId = new EquipoBean();
+			equipoConId.setId(id);
+			equipoConId.setNombre(equipo);
+			nuevaLista.add(equipoConId);
+			id++;
+		}
+		
+		equipoService.insertarEquiposXml(nuevaLista);
+		*/	
 
 	}
 
