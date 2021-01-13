@@ -1,6 +1,7 @@
-package com.pronosticador.soccerstats.partidos.scraper;
+package com.pronosticador.soccerstats.scraper;
 
 import java.io.IOException;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,10 +10,11 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.pronosticador.soccerstats.partidos.beans.PartidoBean;
-import com.pronosticador.soccerstats.partidos.beans.PartidosBean;
+import com.pronosticador.soccerstats.beans.PartidoBean;
+import com.pronosticador.soccerstats.beans.PartidosBean;
 
-public class PartidoScraper {
+@SuppressWarnings("serial")
+public class PartidoScraper implements Serializable {
 	
 	public static PartidosBean listaPartidos(String ligaUrl) {
 		
@@ -25,7 +27,6 @@ public class PartidoScraper {
 			Elements trs = doc.select("tr.trow3");
 			int size = trs.size();
 			partidos.setNumeroPartidos(size);
-			PartidoBean partido = new PartidoBean();
 			for (Element tr: trs) {
 				Element td1 = tr.select("td").get(2);
 				String equipos = td1.text();
@@ -38,6 +39,7 @@ public class PartidoScraper {
 				String[] marcadorDiv = marcador.split(" - ");
 				int golesLocal = Integer.parseInt(marcadorDiv[0]);
 				int golesVisitante = Integer.parseInt(marcadorDiv[1]);
+				PartidoBean partido = new PartidoBean();
 				partido.setLocal(local);
 				partido.setVisitante(visitante);
 				partido.setGolesLocal(golesLocal);

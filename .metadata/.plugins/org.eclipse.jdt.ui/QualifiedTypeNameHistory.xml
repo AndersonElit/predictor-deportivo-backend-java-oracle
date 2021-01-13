@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.ObtenerEquiposResultadosFutbol"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.inter.IObtenerEquipos"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.ResultadoPartidos"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerPartidos"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.composition.DatosTotalesLiga"/>
@@ -16,7 +13,6 @@
 <fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquiposCoinciden"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.equiposcoinciden.EquiposCoinciden"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
@@ -48,10 +44,20 @@
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.serializar.SerializarEquipo"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposXml"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.interfaces.IEquipoScraper"/>
-<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.scraper.EquipoScraper"/>
-<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.beans.EquiposBean"/>
-<fullyQualifiedTypeName name="com.pronosticador.soccerstats.partidos.beans.PartidosBean"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.partidos.beans.PartidoBean"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.scraper.EquipoScraper"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.partidos.scraper.PartidoScraper"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.beans.EquiposBean"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.partidos.beans.PartidosBean"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.temporada.scraper.TemporadaScraper"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.beans.EquipoBean"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.equipos.equiposcoinciden.EquiposCoinciden"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.temporada.beans.TemporadaBean"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.negocio.TemporadaNegocio"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.interfaces.ITemporadaNegocio"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.beans.TemporadaBean"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.serializar.Serializar"/>
 </qualifiedTypeNameHistroy>

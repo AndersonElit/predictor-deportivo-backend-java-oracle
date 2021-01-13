@@ -1,6 +1,9 @@
-package com.pronosticador.soccerstats.partidos.beans;
+package com.pronosticador.soccerstats.beans;
 
-public class PartidoBean {
+import java.io.Serializable;
+
+@SuppressWarnings("serial")
+public class PartidoBean implements Serializable {
 	
 	private String local;
 	private String visitante;

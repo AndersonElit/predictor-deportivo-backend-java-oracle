@@ -1,17 +1,19 @@
-package com.pronosticador.soccerstats.equipos.beans;
+package com.pronosticador.soccerstats.beans;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class EquiposBean {
+@SuppressWarnings("serial")
+public class EquiposBean implements Serializable {
 	
 	private int numeroEquipos;
-	private List<String> equipos;
+	private List<EquipoBean> equipos;
 	
 	public EquiposBean() {
 		
 	}
 	
-	public EquiposBean(int numeroEquipos, List<String> equipos) {
+	public EquiposBean(int numeroEquipos, List<EquipoBean> equipos) {
 		this.numeroEquipos = numeroEquipos;
 		this.equipos = equipos;
 	}
@@ -24,11 +26,11 @@ public class EquiposBean {
 		this.numeroEquipos = numeroEquipos;
 	}
 
-	public List<String> getEquipos() {
+	public List<EquipoBean> getEquipos() {
 		return equipos;
 	}
 
-	public void setEquipos(List<String> equipos) {
+	public void setEquipos(List<EquipoBean> equipos) {
 		this.equipos = equipos;
 	}
 

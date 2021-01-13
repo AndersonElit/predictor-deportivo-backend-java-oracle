@@ -1,8 +1,10 @@
-package com.pronosticador.soccerstats.partidos.beans;
+package com.pronosticador.soccerstats.beans;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class PartidosBean {
+@SuppressWarnings("serial")
+public class PartidosBean implements Serializable {
 	
 	private int numeroPartidos;
 	private List<PartidoBean> partidos;
