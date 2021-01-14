@@ -6,6 +6,7 @@ import java.io.Serializable;
 public class TemporadaBean implements Serializable {
 	
 	private String pais;
+	private String liga;
 	private int temporada;
 	private EquiposBean equipos;
 	private PartidosBean partidos;
@@ -51,6 +52,14 @@ public class TemporadaBean implements Serializable {
 
 	public void setPartidos(PartidosBean partidos) {
 		this.partidos = partidos;
+	}
+
+	public String getLiga() {
+		return liga;
+	}
+
+	public void setLiga(String liga) {
+		this.liga = liga;
 	}
 
 }

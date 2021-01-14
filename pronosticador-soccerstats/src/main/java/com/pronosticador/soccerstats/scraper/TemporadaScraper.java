@@ -24,6 +24,10 @@ public class TemporadaScraper {
 		temporada.setPais(pais);
 		temporada.setTemporada(temp);
 		
+		//obtener nombre de la liga
+		String liga = TituloLigaScraper.tituloLiga("england_2019");
+		temporada.setLiga(liga);
+		
 		//obtener equipos
 		EquiposBean equiposObj = EquipoScraper.listaEquipos(ligaUrl);
 		temporada.setEquipos(equiposObj);

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerPartidos"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.composition.DatosTotalesLiga"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.ResultadoEquipos"/>
@@ -10,7 +9,6 @@
 <fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
 <fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IObtenerPartido"/>
-<fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquiposCoinciden"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.equiposcoinciden.EquiposCoinciden"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.interfaces.ITemporadaNegocio"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.beans.TemporadaBean"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.serializar.Serializar"/>
+<fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.scraper.TituloLigaScraper"/>
 </qualifiedTypeNameHistroy>
