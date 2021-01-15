@@ -1,13 +1,8 @@
 package com.pronosticador.soccerstats.scraper;
 
-import java.util.List;
-
-import com.pronosticador.soccerstats.beans.EquipoBean;
 import com.pronosticador.soccerstats.beans.EquiposBean;
-import com.pronosticador.soccerstats.beans.PartidoBean;
 import com.pronosticador.soccerstats.beans.PartidosBean;
 import com.pronosticador.soccerstats.beans.TemporadaBean;
-import com.pronosticador.soccerstats.equiposcoinciden.EquiposCoinciden;
 import com.pronosticador.soccerstats.serializar.Serializar;
 
 public class TemporadaScraper {
@@ -25,7 +20,7 @@ public class TemporadaScraper {
 		temporada.setTemporada(temp);
 		
 		//obtener nombre de la liga
-		String liga = TituloLigaScraper.tituloLiga("england_2019");
+		String liga = TituloLigaScraper.tituloLiga(ligaUrl);
 		temporada.setLiga(liga);
 		
 		//obtener equipos
@@ -37,12 +32,24 @@ public class TemporadaScraper {
 		temporada.setPartidos(partidosObj);
 		
 		//validar integridad informacion
-		List<EquipoBean> equipos = equiposObj.getEquipos();
-		List<PartidoBean> partidos = partidosObj.getPartidos();
+		//List<EquipoBean> equipos = equiposObj.getEquipos();
+		//List<PartidoBean> partidos = partidosObj.getPartidos();
+		
+		/*
 		int noCoinciden = EquiposCoinciden.verificarEquipos(equipos, partidos, temp);
 		
-		if (noCoinciden > 0) {
+		if (noCoinciden == 0) {
+			Serializar.serializarTemporada(temporada, ligaUrl);
+			System.out.println("Los datos de la liga " + pais + " " + temp + " fueron recuperados de forma exitosa.");
+		} else {
 			System.out.println(noCoinciden + " registros no coinciden para la liga " + pais + " " + temp);
+		}
+		*/
+		
+		int numeroPartidos = partidosObj.getNumeroPartidos();
+		
+		if (numeroPartidos == 0) {
+			System.out.println("no se recuperaron los partidos para la temporada " + ligaUrl);
 		} else {
 			Serializar.serializarTemporada(temporada, ligaUrl);
 			System.out.println("Los datos de la liga " + pais + " " + temp + " fueron recuperados de forma exitosa.");

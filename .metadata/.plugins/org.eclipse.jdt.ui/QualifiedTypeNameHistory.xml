@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.composition.ObtenerEquiposResultadosFutbol"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.composition.DatosTotalesLiga"/>
-<fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.ResultadoEquipos"/>
 <fullyQualifiedTypeName name="javax.swing.text.Document"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.ITotalDatos"/>
 <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.serializar.Serializar"/>
 <fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.scraper.TituloLigaScraper"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.scraper.PartidoScraper"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.beans.PartidosBean"/>
 </qualifiedTypeNameHistroy>
