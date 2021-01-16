@@ -1,6 +1,6 @@
 /*
 CREATE TRIGGER insertar_id_tabla_paises
-    BEFORE INSERT ON paises
+    BEFORE INSERT ON tab_paises
     FOR EACH ROW
         WHEN (new.id IS NULL)
     BEGIN
@@ -20,7 +20,7 @@ END;
 
 /*
 CREATE TRIGGER insertar_id_tabla_temporadas
-    BEFORE INSERT ON temporadas
+    BEFORE INSERT ON tab_temporadas
     FOR EACH ROW
         WHEN (new.id IS NULL)
     BEGIN
@@ -30,7 +30,7 @@ END;
 
 /*
 CREATE TRIGGER insertar_id_tabla_ligas
-    BEFORE INSERT ON ligas
+    BEFORE INSERT ON tab_ligas
     FOR EACH ROW
         WHEN (new.id IS NULL)
     BEGIN
@@ -40,13 +40,14 @@ END;
 
 /*
 CREATE TRIGGER insertar_id_tabla_equipos
-    BEFORE INSERT ON equipos
+    BEFORE INSERT ON tab_equipos
     FOR EACH ROW
         WHEN (new.id IS NULL)
     BEGIN
         :new.id := seq_tabla_equipos.nextval;
 END;
 */
+
 
 /*
 CREATE TRIGGER insertar_id_tabla_datos_partidos
