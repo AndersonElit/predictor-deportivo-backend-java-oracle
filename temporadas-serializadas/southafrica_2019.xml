@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Mamelodi</equipo>
+        <equipo>Orlando Pirates</equipo>
+        <equipo>Bidvest Wits</equipo>
+        <equipo>Cape Town City</equipo>
+        <equipo>Polokwane City</equipo>
+        <equipo>SuperSport Utd</equipo>
+        <equipo>Highlands Park</equipo>
+        <equipo>Bloem Celtics</equipo>
+        <equipo>Kaizer Chiefs</equipo>
+        <equipo>Golden Arrows</equipo>
+        <equipo>AmaZulu</equipo>
+        <equipo>Chippa Utd</equipo>
+        <equipo>Black Leopards</equipo>
+        <equipo>Baroka FC</equipo>
+        <equipo>Maritzburg Utd</equipo>
+        <equipo>F. State Stars</equipo>
+        <numeroEquipos>16</numeroEquipos>
+        <partidosJugados>30</partidosJugados>
+    </equipos>
+    <liga>South Africa - Premier Division</liga>
+    <pais>southafrica</pais>
+    <partidos>
+        <numeroPartidos>240</numeroPartidos>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Polokwane City</local>
+            <visitante>Chippa Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Maritzburg Utd</local>
+            <visitante>SuperSport Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kaizer Chiefs</local>
+            <visitante>F. State Stars</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Highlands Park</local>
+            <visitante>Bloem Celtics</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cape Town City</local>
+            <visitante>Orlando Pirates</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bidvest Wits</local>
+            <visitante>Baroka FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AmaZulu</local>
+            <visitante>Black Leopards</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Mamelodi</local>
+            <visitante>Golden Arrows</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SuperSport Utd</local>
+            <visitante>Highlands Park</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Orlando Pirates</local>
+            <visitante>Polokwane City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Golden Arrows</local>
+            <visitante>Bidvest Wits</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>F. State Stars</local>
+            <visitante>Mamelodi</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chippa Utd</local>
+            <visitante>Kaizer Chiefs</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bloem Celtics</local>
+            <visitante>AmaZulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Black Leopards</local>
+            <visitante>Cape Town City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Baroka FC</local>
+            <visitante>Maritzburg Utd</visitante>
+        </partido>
+    </partidos>
+    <temporada>2019</temporada>
+</datostemporada>

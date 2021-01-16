@@ -1,0 +1,3348 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Burnley</equipo>
+        <equipo>Middlesbrough</equipo>
+        <equipo>Brighton</equipo>
+        <equipo>Hull City</equipo>
+        <equipo>Derby County</equipo>
+        <equipo>Sheffield Wed</equipo>
+        <equipo>Ipswich Town</equipo>
+        <equipo>Cardiff City</equipo>
+        <equipo>Brentford</equipo>
+        <equipo>Birmingham City</equipo>
+        <equipo>Preston</equipo>
+        <equipo>QP Rangers</equipo>
+        <equipo>Leeds Utd</equipo>
+        <equipo>Wolverhampton</equipo>
+        <equipo>Blackburn</equipo>
+        <equipo>Nottm Forest</equipo>
+        <equipo>Reading</equipo>
+        <equipo>Bristol City</equipo>
+        <equipo>Huddersfield</equipo>
+        <equipo>Fulham</equipo>
+        <equipo>Rotherham</equipo>
+        <equipo>Charlton</equipo>
+        <equipo>Milton Keynes</equipo>
+        <equipo>Bolton</equipo>
+        <numeroEquipos>24</numeroEquipos>
+        <partidosJugados>46</partidosJugados>
+    </equipos>
+    <liga>Championship</liga>
+    <pais>england2</pais>
+    <partidos>
+        <numeroPartidos>552</numeroPartidos>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Charlton</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Preston</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Preston</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Fulham</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brentford</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Reading</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Preston</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Reading</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Preston</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Reading</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Reading</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Preston</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Reading</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Preston</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Reading</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Reading</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Burnley</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brighton</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Reading</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Birmingham City</local>
+            <visitante>Middlesbrough</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sheffield Wed</local>
+            <visitante>Cardiff City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Rotherham</local>
+            <visitante>Blackburn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Reading</local>
+            <visitante>Preston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Nottm Forest</local>
+            <visitante>Wolverhampton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Leeds Utd</local>
+            <visitante>Charlton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ipswich Town</local>
+            <visitante>Milton Keynes</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bristol City</local>
+            <visitante>Huddersfield</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Brentford</local>
+            <visitante>Fulham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Bolton</local>
+            <visitante>Hull City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Burnley</local>
+            <visitante>QP Rangers</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Brighton</local>
+            <visitante>Derby County</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wolverhampton</local>
+            <visitante>Sheffield Wed</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>QP Rangers</local>
+            <visitante>Bristol City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Preston</local>
+            <visitante>Leeds Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Milton Keynes</local>
+            <visitante>Nottm Forest</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Middlesbrough</local>
+            <visitante>Brighton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Hull City</local>
+            <visitante>Rotherham</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Huddersfield</local>
+            <visitante>Brentford</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Fulham</local>
+            <visitante>Bolton</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Derby County</local>
+            <visitante>Ipswich Town</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Charlton</local>
+            <visitante>Burnley</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cardiff City</local>
+            <visitante>Birmingham City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Blackburn</local>
+            <visitante>Reading</visitante>
+        </partido>
+    </partidos>
+    <temporada>2016</temporada>
+</datostemporada>

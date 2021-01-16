@@ -1,0 +1,2381 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>New York RB</equipo>
+        <equipo>Atlanta United</equipo>
+        <equipo>Sporting KC</equipo>
+        <equipo>Seattle</equipo>
+        <equipo>Los Angeles FC</equipo>
+        <equipo>FC Dallas</equipo>
+        <equipo>New York City</equipo>
+        <equipo>Portland</equipo>
+        <equipo>DC United</equipo>
+        <equipo>Columbus</equipo>
+        <equipo>Philadelphia</equipo>
+        <equipo>Real Salt Lake</equipo>
+        <equipo>L.A. Galaxy</equipo>
+        <equipo>Vancouver</equipo>
+        <equipo>Montreal Impact</equipo>
+        <equipo>New England</equipo>
+        <equipo>Houston</equipo>
+        <equipo>Minnesota Utd</equipo>
+        <equipo>Toronto FC</equipo>
+        <equipo>Chicago Fire</equipo>
+        <equipo>Colorado</equipo>
+        <equipo>Orlando City</equipo>
+        <equipo>San Jose</equipo>
+        <numeroEquipos>23</numeroEquipos>
+        <partidosJugados>34</partidosJugados>
+    </equipos>
+    <liga>USA - MLS</liga>
+    <pais>usa</pais>
+    <partidos>
+        <numeroPartidos>391</numeroPartidos>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Houston</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Houston</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New England</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>DC United</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Columbus</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New England</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Houston</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>San Jose</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New England</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New England</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>DC United</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Portland</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Columbus</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Houston</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New England</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Columbus</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Houston</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New England</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New England</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Portland</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>San Jose</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Houston</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New England</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New England</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Portland</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Columbus</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Houston</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>San Jose</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New England</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>San Jose</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Houston</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New England</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Portland</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Houston</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>New England</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Portland</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Houston</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Houston</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Portland</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Houston</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Colorado</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New York City</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>New England</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Portland</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Colorado</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>DC United</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seattle</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>DC United</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Houston</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Houston</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>6</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Portland</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>San Jose</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>DC United</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New England</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Columbus</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>DC United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>DC United</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Houston</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Portland</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>New England</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York City</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>DC United</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Houston</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>San Jose</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Colorado</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New England</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>DC United</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>DC United</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Real Salt Lake</local>
+            <visitante>New England</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>San Jose</local>
+            <visitante>Colorado</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Portland</local>
+            <visitante>Real Salt Lake</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Minnesota Utd</local>
+            <visitante>L.A. Galaxy</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Los Angeles FC</local>
+            <visitante>Vancouver</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Houston</local>
+            <visitante>Seattle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Dallas</local>
+            <visitante>Sporting KC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Philadelphia</local>
+            <visitante>New York RB</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Orlando City</local>
+            <visitante>Columbus</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Montreal Impact</local>
+            <visitante>Toronto FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>DC United</local>
+            <visitante>New York City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Atlanta United</local>
+            <visitante>Chicago Fire</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vancouver</local>
+            <visitante>Portland</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Toronto FC</local>
+            <visitante>Atlanta United</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sporting KC</local>
+            <visitante>Los Angeles FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seattle</local>
+            <visitante>San Jose</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New York RB</local>
+            <visitante>Orlando City</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>New York City</local>
+            <visitante>Philadelphia</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>New England</local>
+            <visitante>Montreal Impact</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>L.A. Galaxy</local>
+            <visitante>Houston</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Columbus</local>
+            <visitante>Minnesota Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Colorado</local>
+            <visitante>FC Dallas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Chicago Fire</local>
+            <visitante>DC United</visitante>
+        </partido>
+    </partidos>
+    <temporada>2018</temporada>
+</datostemporada>

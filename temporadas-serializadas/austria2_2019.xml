@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Wattens</equipo>
+        <equipo>Ried SV</equipo>
+        <equipo>A. Lustenau</equipo>
+        <equipo>Kapfenberger</equipo>
+        <equipo>BW Linz</equipo>
+        <equipo>Wiener Neustadt</equipo>
+        <equipo>FC Juniors</equipo>
+        <equipo>A. Klagenfurt</equipo>
+        <equipo>W. Innsbruck B</equipo>
+        <equipo>Floridsdorfer</equipo>
+        <equipo>Amstetten</equipo>
+        <equipo>FC Liefering</equipo>
+        <equipo>Austria Wien B</equipo>
+        <equipo>Lafnitz</equipo>
+        <equipo>SV Horn</equipo>
+        <equipo>Vorwarts Steyr</equipo>
+        <numeroEquipos>16</numeroEquipos>
+        <partidosJugados>30</partidosJugados>
+    </equipos>
+    <liga>Austria - 2. Liga</liga>
+    <pais>austria2</pais>
+    <partidos>
+        <numeroPartidos>240</numeroPartidos>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wattens</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>6</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wattens</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wattens</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>6</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>7</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Wattens</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Klagenfurt</local>
+            <visitante>Vorwarts Steyr</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Austria Wien B</local>
+            <visitante>Floridsdorfer</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>BW Linz</local>
+            <visitante>Ried SV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>FC Juniors</local>
+            <visitante>Amstetten</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kapfenberger</local>
+            <visitante>SV Horn</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>W. Innsbruck B</local>
+            <visitante>FC Liefering</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Wattens</local>
+            <visitante>A. Lustenau</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Wiener Neustadt</local>
+            <visitante>Lafnitz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>7</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>A. Lustenau</local>
+            <visitante>W. Innsbruck B</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Amstetten</local>
+            <visitante>Kapfenberger</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Liefering</local>
+            <visitante>A. Klagenfurt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Floridsdorfer</local>
+            <visitante>Wiener Neustadt</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Lafnitz</local>
+            <visitante>BW Linz</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ried SV</local>
+            <visitante>FC Juniors</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>SV Horn</local>
+            <visitante>Wattens</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Vorwarts Steyr</local>
+            <visitante>Austria Wien B</visitante>
+        </partido>
+    </partidos>
+    <temporada>2019</temporada>
+</datostemporada>

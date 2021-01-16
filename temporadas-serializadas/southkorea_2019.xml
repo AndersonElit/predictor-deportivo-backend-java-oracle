@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Jeonbuk</equipo>
+        <equipo>Ulsan</equipo>
+        <equipo>FC Seoul</equipo>
+        <equipo>Pohang</equipo>
+        <equipo>Daegu FC</equipo>
+        <equipo>Sangju Sangmu</equipo>
+        <equipo>Gangwon</equipo>
+        <equipo>Suwon</equipo>
+        <equipo>Seongnam</equipo>
+        <equipo>Incheon Utd</equipo>
+        <equipo>Gyeongnam</equipo>
+        <equipo>Jeju Utd</equipo>
+        <numeroEquipos>12</numeroEquipos>
+        <partidosJugados>38</partidosJugados>
+    </equipos>
+    <liga>South Korea - K League 1</liga>
+    <pais>southkorea</pais>
+    <partidos>
+        <numeroPartidos>228</numeroPartidos>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Suwon</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Pohang</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Suwon</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Suwon</local>
+            <visitante>Seongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Ulsan</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Pohang</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Jeonbuk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Gangwon</local>
+            <visitante>Daegu FC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Seoul</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Jeju Utd</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Gyeongnam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Incheon Utd</local>
+            <visitante>Sangju Sangmu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Seongnam</local>
+            <visitante>Jeju Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sangju Sangmu</local>
+            <visitante>Suwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Gyeongnam</local>
+            <visitante>Incheon Utd</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Ulsan</local>
+            <visitante>Pohang</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Jeonbuk</local>
+            <visitante>Gangwon</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Daegu FC</local>
+            <visitante>FC Seoul</visitante>
+        </partido>
+    </partidos>
+    <temporada>2019</temporada>
+</datostemporada>

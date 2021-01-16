@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Haka</equipo>
+        <equipo>TPS</equipo>
+        <equipo>FF Jaro</equipo>
+        <equipo>FC KTP</equipo>
+        <equipo>MuSa</equipo>
+        <equipo>Ekenas</equipo>
+        <equipo>AC Oulu</equipo>
+        <equipo>AC Kajaani</equipo>
+        <equipo>MyPa</equipo>
+        <equipo>TPV</equipo>
+        <numeroEquipos>10</numeroEquipos>
+        <partidosJugados>27</partidosJugados>
+    </equipos>
+    <liga>Finland - Ykkonen</liga>
+    <pais>finland2</pais>
+    <partidos>
+        <numeroPartidos>135</numeroPartidos>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MyPa</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Haka</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Haka</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPV</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>TPS</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>MyPa</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MuSa</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPS</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Haka</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>TPV</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>7</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPV</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>MuSa</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>TPS</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MyPa</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>MuSa</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>TPV</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>TPS</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Haka</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MyPa</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>MuSa</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Haka</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>TPS</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPV</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>TPV</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MyPa</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>MyPa</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>MuSa</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPS</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Haka</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>TPV</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>MyPa</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>MuSa</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPS</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>MuSa</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Haka</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>TPV</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>TPS</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>MyPa</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MuSa</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Haka</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>TPV</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPS</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Haka</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>MyPa</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>MuSa</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Haka</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>MuSa</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>TPS</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>TPV</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Haka</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>TPS</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>MyPa</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>MuSa</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPV</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPS</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Haka</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>MyPa</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Haka</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>MyPa</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>MuSa</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>TPS</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>TPV</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>MyPa</local>
+            <visitante>TPV</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AC Oulu</local>
+            <visitante>FF Jaro</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>MuSa</local>
+            <visitante>Ekenas</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AC Kajaani</local>
+            <visitante>Haka</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC KTP</local>
+            <visitante>TPS</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPV</local>
+            <visitante>FC KTP</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>TPS</local>
+            <visitante>MuSa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Haka</local>
+            <visitante>MyPa</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FF Jaro</local>
+            <visitante>AC Kajaani</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ekenas</local>
+            <visitante>AC Oulu</visitante>
+        </partido>
+    </partidos>
+    <temporada>2019</temporada>
+</datostemporada>

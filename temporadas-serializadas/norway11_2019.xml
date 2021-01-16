@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Lillestrom K. W</equipo>
+        <equipo>Vålerenga W</equipo>
+        <equipo>Klepp W</equipo>
+        <equipo>Sandviken W</equipo>
+        <equipo>Avaldsnes W</equipo>
+        <equipo>Røa W</equipo>
+        <equipo>Trondheims-Ø. W</equipo>
+        <equipo>Kolbotn W</equipo>
+        <equipo>Arna-Bjørnar W</equipo>
+        <equipo>Lyn Fotball W</equipo>
+        <equipo>Stabæk W</equipo>
+        <equipo>Fart W</equipo>
+        <numeroEquipos>12</numeroEquipos>
+        <partidosJugados>22</partidosJugados>
+    </equipos>
+    <liga>Norway - Toppserien Women</liga>
+    <pais>norway11</pais>
+    <partidos>
+        <numeroPartidos>132</numeroPartidos>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>6</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vålerenga W</local>
+            <visitante>Avaldsnes W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Trondheims-Ø. W</local>
+            <visitante>Stabæk W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Sandviken W</local>
+            <visitante>Kolbotn W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Lyn Fotball W</local>
+            <visitante>Røa W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Lillestrom K. W</local>
+            <visitante>Fart W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Klepp W</local>
+            <visitante>Arna-Bjørnar W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Stabæk W</local>
+            <visitante>Lillestrom K. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Røa W</local>
+            <visitante>Sandviken W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Kolbotn W</local>
+            <visitante>Lyn Fotball W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>6</golesvisitante>
+            <local>Fart W</local>
+            <visitante>Klepp W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Avaldsnes W</local>
+            <visitante>Trondheims-Ø. W</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Arna-Bjørnar W</local>
+            <visitante>Vålerenga W</visitante>
+        </partido>
+    </partidos>
+    <temporada>2019</temporada>
+</datostemporada>

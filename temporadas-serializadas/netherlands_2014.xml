@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?><datostemporada>
+    <equipos>
+        <equipo>Ajax Amsterdam</equipo>
+        <equipo>Feyenoord</equipo>
+        <equipo>FC Twente</equipo>
+        <equipo>PSV Eindhoven</equipo>
+        <equipo>Heerenveen</equipo>
+        <equipo>Vitesse Arnhem</equipo>
+        <equipo>FC Groningen</equipo>
+        <equipo>AZ Alkmaar</equipo>
+        <equipo>ADO Den Haag</equipo>
+        <equipo>FC Utrecht</equipo>
+        <equipo>PEC Zwolle</equipo>
+        <equipo>Cambuur</equipo>
+        <equipo>Go Ahead Eagles</equipo>
+        <equipo>Heracles Almelo</equipo>
+        <equipo>NAC Breda</equipo>
+        <equipo>RKC Waalwijk</equipo>
+        <equipo>NEC Nijmegen</equipo>
+        <equipo>Roda JC</equipo>
+        <numeroEquipos>18</numeroEquipos>
+        <partidosJugados>34</partidosJugados>
+    </equipos>
+    <liga>Netherlands - Eredivisie</liga>
+    <pais>netherlands</pais>
+    <partidos>
+        <numeroPartidos>306</numeroPartidos>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>6</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>ADO Den Haag</local>
+            <visitante>AZ Alkmaar</visitante>
+        </partido>
+        <partido>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Feyenoord</local>
+            <visitante>Cambuur</visitante>
+        </partido>
+        <partido>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heerenveen</local>
+            <visitante>FC Utrecht</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Heracles Almelo</local>
+            <visitante>Ajax Amsterdam</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>NAC Breda</local>
+            <visitante>RKC Waalwijk</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <local>NEC Nijmegen</local>
+            <visitante>FC Twente</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>PEC Zwolle</local>
+            <visitante>PSV Eindhoven</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Roda JC</local>
+            <visitante>FC Groningen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Vitesse Arnhem</local>
+            <visitante>Go Ahead Eagles</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Ajax Amsterdam</local>
+            <visitante>NEC Nijmegen</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>AZ Alkmaar</local>
+            <visitante>Feyenoord</visitante>
+        </partido>
+        <partido>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>Cambuur</local>
+            <visitante>ADO Den Haag</visitante>
+        </partido>
+        <partido>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Groningen</local>
+            <visitante>Heracles Almelo</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <local>FC Twente</local>
+            <visitante>PEC Zwolle</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>FC Utrecht</local>
+            <visitante>Vitesse Arnhem</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <local>Go Ahead Eagles</local>
+            <visitante>Roda JC</visitante>
+        </partido>
+        <partido>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <local>PSV Eindhoven</local>
+            <visitante>NAC Breda</visitante>
+        </partido>
+        <partido>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <local>RKC Waalwijk</local>
+            <visitante>Heerenveen</visitante>
+        </partido>
+    </partidos>
+    <temporada>2014</temporada>
+</datostemporada>

@@ -10,7 +10,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.pronosticador.soccerstats.beans.EquipoBean;
 import com.pronosticador.soccerstats.beans.EquiposBean;
 
 @SuppressWarnings("serial")
@@ -20,19 +19,19 @@ public class EquipoScraper implements Serializable {
 		
 		String url = "https://www.soccerstats.com/widetable.asp?league=" + ligaUrl;
 		EquiposBean equipos = new EquiposBean();
-		List<EquipoBean> listaEquipos = new ArrayList<EquipoBean>();
+		List<String> listaEquipos = new ArrayList<String>();
 		
 		try {
 			Document doc = Jsoup.connect(url).get();
 			Elements trs = doc.select("tr.trow8");
 			int size = trs.size();
 			equipos.setNumeroEquipos(size);
+			int partidosJugados = Integer.parseInt(trs.get(0).select("td").get(2).text());
+			equipos.setPartidosJugados(partidosJugados);
 			for(Element tr: trs) {
 				Element td = tr.select("td").get(1);
 				Element a = td.selectFirst("a");
-				String nombreEquipo = a.text();
-				EquipoBean equipo = new EquipoBean();
-				equipo.setEquipo(nombreEquipo);
+				String equipo = a.text();
 				listaEquipos.add(equipo);
 			}
 		} catch (IOException e) {

@@ -2,7 +2,10 @@ package com.pronosticador.soccerstats.beans;
 
 import java.io.Serializable;
 
-@SuppressWarnings("serial")
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "datostemporada")
 public class TemporadaBean implements Serializable {
 	
 	private String pais;
@@ -41,7 +44,8 @@ public class TemporadaBean implements Serializable {
 	public EquiposBean getEquipos() {
 		return equipos;
 	}
-
+	
+	@XmlElement(name = "equipos")
 	public void setEquipos(EquiposBean equipos) {
 		this.equipos = equipos;
 	}
@@ -49,7 +53,8 @@ public class TemporadaBean implements Serializable {
 	public PartidosBean getPartidos() {
 		return partidos;
 	}
-
+	
+	@XmlElement(name = "partidos")
 	public void setPartidos(PartidosBean partidos) {
 		this.partidos = partidos;
 	}

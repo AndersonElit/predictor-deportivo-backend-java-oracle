@@ -3,19 +3,18 @@ package com.pronosticador.soccerstats.beans;
 import java.io.Serializable;
 import java.util.List;
 
-@SuppressWarnings("serial")
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "equipos")
 public class EquiposBean implements Serializable {
 	
 	private int numeroEquipos;
-	private List<EquipoBean> equipos;
+	private List<String> equipos;
+	private int partidosJugados;
 	
 	public EquiposBean() {
 		
-	}
-	
-	public EquiposBean(int numeroEquipos, List<EquipoBean> equipos) {
-		this.numeroEquipos = numeroEquipos;
-		this.equipos = equipos;
 	}
 	
 	public int getNumeroEquipos() {
@@ -26,11 +25,20 @@ public class EquiposBean implements Serializable {
 		this.numeroEquipos = numeroEquipos;
 	}
 
-	public List<EquipoBean> getEquipos() {
-		return equipos;
+	public int getPartidosJugados() {
+		return partidosJugados;
 	}
 
-	public void setEquipos(List<EquipoBean> equipos) {
+	public void setPartidosJugados(int partidosJugados) {
+		this.partidosJugados = partidosJugados;
+	}
+
+	public List<String> getEquipos() {
+		return equipos;
+	}
+	
+	@XmlElement(name = "equipo")
+	public void setEquipos(List<String> equipos) {
 		this.equipos = equipos;
 	}
 

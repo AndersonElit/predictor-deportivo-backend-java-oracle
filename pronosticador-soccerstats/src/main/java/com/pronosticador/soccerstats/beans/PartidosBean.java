@@ -3,7 +3,10 @@ package com.pronosticador.soccerstats.beans;
 import java.io.Serializable;
 import java.util.List;
 
-@SuppressWarnings("serial")
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "partidos")
 public class PartidosBean implements Serializable {
 	
 	private int numeroPartidos;
@@ -20,7 +23,8 @@ public class PartidosBean implements Serializable {
 	public List<PartidoBean> getPartidos() {
 		return partidos;
 	}
-
+	
+	@XmlElement(name = "partido")
 	public void setPartidos(List<PartidoBean> partidos) {
 		this.partidos = partidos;
 	}

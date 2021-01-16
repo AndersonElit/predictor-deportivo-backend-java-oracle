@@ -2,7 +2,10 @@ package com.pronosticador.soccerstats.beans;
 
 import java.io.Serializable;
 
-@SuppressWarnings("serial")
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "partido")
 public class PartidoBean implements Serializable {
 	
 	private String local;
@@ -24,7 +27,8 @@ public class PartidoBean implements Serializable {
 	public String getLocal() {
 		return local;
 	}
-
+	
+	@XmlElement(name = "local")
 	public void setLocal(String local) {
 		this.local = local;
 	}
@@ -32,7 +36,8 @@ public class PartidoBean implements Serializable {
 	public String getVisitante() {
 		return visitante;
 	}
-
+	
+	@XmlElement(name = "visitante")
 	public void setVisitante(String visitante) {
 		this.visitante = visitante;
 	}
@@ -41,6 +46,7 @@ public class PartidoBean implements Serializable {
 		return golesLocal;
 	}
 	
+	@XmlElement(name = "goleslocal")
 	public void setGolesLocal(int golesLocal) {
 		this.golesLocal = golesLocal;
 	}
@@ -48,7 +54,8 @@ public class PartidoBean implements Serializable {
 	public int getGolesVisitante() {
 		return golesVisitante;
 	}
-
+	
+	@XmlElement(name = "golesvisitante")
 	public void setGolesVisitante(int golesVisitante) {
 		this.golesVisitante = golesVisitante;
 	}
