@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.predictor.bot.interfaces.ISerializarLiga"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.TemporadasLiga"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.entidad.FechasTemporada"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerpartidos.elementos.ListaPartidosResultadosFutbol"/>
@@ -14,7 +13,6 @@
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.service.EquipoService"/>
 <fullyQualifiedTypeName name="com.predictor.bot.interfaces.IEquipoService"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquipoBean"/>
-<fullyQualifiedTypeName name="java.io.StringWriter"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposResult"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.serializar.SerializarEquipo"/>
 <fullyQualifiedTypeName name="com.predictor.bot.obtenerequipos.entidad.EquiposXml"/>
@@ -43,21 +41,23 @@
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.interfaces.ISelector"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.selectors.PartidoSelector"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.beans.TemporadaAXmlBean"/>
-<fullyQualifiedTypeName name="com.pronosticador.soccerstats.serializar.Serializar"/>
-<fullyQualifiedTypeName name="javax.xml.transform.TransformerFactory"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.javassist.convert.Transformer"/>
-<fullyQualifiedTypeName name="javax.xml.transform.Transformer"/>
 <fullyQualifiedTypeName name="javax.xml.transform.TransformerException"/>
-<fullyQualifiedTypeName name="javax.xml.transform.dom.DOMSource"/>
-<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
-<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
 <fullyQualifiedTypeName name="java.io.StringReader"/>
 <fullyQualifiedTypeName name="org.xml.sax.InputSource"/>
-<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
-<fullyQualifiedTypeName name="javax.xml.transform.stream.StreamResult"/>
 <fullyQualifiedTypeName name="com.pronosticador.soccerstats.crearxml.CrearXml"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="java.io.StringWriter"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.pronosticador.soccerstats.serializar.Serializar"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="javax.xml.transform.dom.DOMSource"/>
+<fullyQualifiedTypeName name="javax.xml.transform.stream.StreamResult"/>
+<fullyQualifiedTypeName name="javax.xml.transform.TransformerFactory"/>
+<fullyQualifiedTypeName name="javax.xml.transform.Transformer"/>
 </qualifiedTypeNameHistroy>
